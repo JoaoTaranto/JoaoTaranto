@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Me chamo João Taranto, jovem de 17 anos com intuito de se tornar um desenvovledor FullStack!<br><br>🎓 Atualmente concluindo Ensino Médio enquanto estudo programação por conta, com intenção de cursar Engenharia de Software logo após!</p>
+<p align="left">👨🏻‍💻 Me chamo João Taranto, jovem de 17 anos com intuito de se tornar um desenvovledor FullStack e Games!<br><br>🎓 Atualmente concluindo Ensino Médio enquanto estudo programação por conta, com intenção de cursar Engenharia de Software logo após!</p>
 
 ###
 
